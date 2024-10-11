@@ -1,5 +1,5 @@
 -- made on 10/11/24
 local config = {}
-config.ForceExpire = false  -- self explanatory
+config.ForceExpire = true  -- self explanatory
 config.ExpirationDate = "2024/10/12" -- YYYY/MM/DD
 return config
